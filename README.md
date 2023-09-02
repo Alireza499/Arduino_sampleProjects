@@ -28,7 +28,7 @@ Description: This project combines a Light-Dependent Resistor (LDR) with an LCD 
 
 Description: Control a motor and an LED using Arduino.
 
-![Motor and LED]('Motor and LED/Capture.PNG')
+![Motor and LED](Motor%20and%20LED/Capture.PNG)
 
 ### 5. Periodic Motor
 

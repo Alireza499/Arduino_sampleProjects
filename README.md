@@ -16,19 +16,19 @@ Description: A basic project showcasing how to display text on a 16x2 LCD screen
 
 Description: Expanding upon the previous project, this one demonstrates more advanced LCD features.
 
-![Advanced LCD Display](images/Capture.PNG)
+![Advanced LCD Display](LCD2/Capture.PNG)
 
 ### 3. LDR-LCD
 
 Description: This project combines a Light-Dependent Resistor (LDR) with an LCD to display light intensity.
 
-![LDR-LCD](images/Capture.PNG)
+![LDR-LCD](LDR,LCD/Capture.PNG)
 
 ### 4. Motor and LED
 
 Description: Control a motor and an LED using Arduino.
 
-![Motor and LED](images/Capture.PNG)
+![Motor and LED]('Motor and LED/Capture.PNG')
 
 ### 5. Periodic Motor
 

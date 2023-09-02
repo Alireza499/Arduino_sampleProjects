@@ -10,37 +10,37 @@ Welcome to a collection of small Arduino projects simulated using Proteus 8. The
 
 Description: A basic project showcasing how to display text on a 16x2 LCD screen.
 
-![LCD Display](images/lcd_display.png)
+![LCD Display](LCD/Capture.PNG)
 
 ### 2. Advanced LCD Display
 
 Description: Expanding upon the previous project, this one demonstrates more advanced LCD features.
 
-![Advanced LCD Display](images/advanced_lcd_display.png)
+![Advanced LCD Display](images/Capture.PNG)
 
 ### 3. LDR-LCD
 
 Description: This project combines a Light-Dependent Resistor (LDR) with an LCD to display light intensity.
 
-![LDR-LCD](images/ldr_lcd.png)
+![LDR-LCD](images/Capture.PNG)
 
 ### 4. Motor and LED
 
 Description: Control a motor and an LED using Arduino.
 
-![Motor and LED](images/motor_led.png)
+![Motor and LED](images/Capture.PNG)
 
 ### 5. Periodic Motor
 
 Description: Create a project that runs a motor periodically.
 
-![Periodic Motor](images/periodic_motor.png)
+![Periodic Motor](images/Capture.PNG)
 
 ### 6. Traffic Light
 
 Description: Simulate a traffic light control system using LEDs.
 
-![Traffic Light](images/traffic_light.png)
+![Traffic Light](images/Capture.PNG)
 
 ## Usage
 

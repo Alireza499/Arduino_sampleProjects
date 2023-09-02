@@ -34,13 +34,13 @@ Description: Control a motor and an LED using Arduino.
 
 Description: Create a project that runs a motor periodically.
 
-![Periodic Motor](images/Capture.PNG)
+![Periodic Motor](periodic%20Motor/Capture.PNG)
 
 ### 6. Traffic Light
 
 Description: Simulate a traffic light control system using LEDs.
 
-![Traffic Light](images/Capture.PNG)
+![Traffic Light](traffic%20lights/Capture.PNG)
 
 ## Usage
 

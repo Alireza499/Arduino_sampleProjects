@@ -40,7 +40,7 @@ Description: Create a project that runs a motor periodically.
 
 Description: Simulate a traffic light control system using LEDs.
 
-![Traffic Light](traffic%20lights/Capture.PNG)
+![Traffic Light](traffic%20light/Capture.PNG)
 
 ## Usage
 
